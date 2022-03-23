@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Cherryplanner - a dayplanner app](https://github.com/jhugray/cherryplanner)
 
-- 🌱 I’m currently learning **AWS, CS50(Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript)**
+- 🌱 I’m currently learning **AWS, [CS50](https://cs50.harvard.edu/x/2021/)(Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript)**
 
 - 👨‍💻 All of my projects are available at [https://jhugray.github.io/react-portfolio/](https://jhugray.github.io/react-portfolio/)
 
