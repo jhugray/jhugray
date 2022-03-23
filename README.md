@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jess.ugray@gmail.com**
 
-- 📄 Know about my experiences by reviewing my resume [https://docs.google.com/document/d/e/2PACX-1vS3q53FrjJN1HFwznNgPTDQvlHBKocuTYvKZ8nF1-s2i1apmY-FpEPQVho0dzG5zJE3Rzd1ndqXBeQO/pub](https://docs.google.com/document/d/e/2PACX-1vS3q53FrjJN1HFwznNgPTDQvlHBKocuTYvKZ8nF1-s2i1apmY-FpEPQVho0dzG5zJE3Rzd1ndqXBeQO/pub)
+- 📄 Know about my experiences by reviewing [my resume on Google docs](https://docs.google.com/document/d/e/2PACX-1vQGCQ_Ue3NWMpOmUda65zdPsyb88J7OxxemZIJg3MGNoT8hvw7PyW93A2F9Uw0Fg6Gm2Sk0ntE2jELD/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
